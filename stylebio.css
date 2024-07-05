@@ -97,7 +97,7 @@ body{
     color: black;
     text-decoration: none;
     padding: 0px 20px;
-    text-align: justify;
+    text-align: center;
     font-size: 25px;
     font-family: "UbuntuLight", Helvetica, sans-serif;
     margin-left: 200px;
@@ -447,7 +447,7 @@ body {
 .somosinfo p {
     color: black;
     text-decoration: none;
-    text-align: justify;
+    text-align: center;
     font-size: 25px;
     font-family: "UbuntuLight", Helvetica, sans-serif;
     margin: 10px 0;
